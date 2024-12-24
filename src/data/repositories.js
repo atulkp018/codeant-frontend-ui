@@ -1,0 +1,68 @@
+export const repositories = [
+  {
+    id: 1,
+    name: "design-system",
+    visibility: "Public",
+    language: "React",
+    size: "7320 KB",
+    updatedAt: "1 day ago",
+  },
+  {
+    id: 2,
+    name: "codeant-ci-app",
+    visibility: "Private",
+    language: "Javascript",
+    size: "5871 KB",
+    updatedAt: "2 days ago",
+  },
+  {
+    id: 3,
+    name: "analytics-dashboard",
+    visibility: "Private",
+    language: "Python",
+    size: "4521 KB",
+    updatedAt: "5 days ago",
+  },
+  {
+    id: 4,
+    name: "mobile-app",
+    visibility: "Public",
+    language: "Swift",
+    size: "3096 KB",
+    updatedAt: "3 days ago",
+  },
+  {
+    id: 5,
+    name: "e-commerce-platform",
+    visibility: "Private",
+    language: "Java",
+    size: "6210 KB",
+    updatedAt: "6 days ago",
+  },
+  {
+    id: 6,
+    name: "blog-website",
+    visibility: "Public",
+    language: "HTML/CSS",
+    size: "1876 KB",
+    updatedAt: "4 days ago",
+  },
+  {
+    id: 7,
+    name: "social-network",
+    visibility: "Private",
+    language: "PHP",
+    size: "5432 KB",
+    updatedAt: "7 days ago",
+  },
+];
+
+export const navigationItems = [
+  { id: 1, name: "Repositories", icon: "Archive", active: true },
+  { id: 2, name: "AI Code Review", icon: "Code2" },
+  { id: 3, name: "Cloud Security", icon: "Cloud" },
+  { id: 4, name: "How to Use", icon: "BookOpen" },
+  { id: 5, name: "Settings", icon: "Settings" },
+  { id: 6, name: "Support", icon: "LifeBuoy" },
+  { id: 7, name: "Logout", icon: "LogOut" },
+];
