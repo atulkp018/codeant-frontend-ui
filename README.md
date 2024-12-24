@@ -3,9 +3,6 @@
 ## 🚀 Overview
 This project is a frontend implementation for CodeAnt AI's Y Combinator-backed platform, focusing on code quality and security. The assignment demonstrates the creation of intuitive user interfaces following provided Figma designs, with emphasis on responsive design and clean code practices.
 
-## ⚡ Live Demo
-[Coming Soon]
-
 ## 🛠️ Tech Stack
 - React.js
 - Tailwind CSS
@@ -13,7 +10,7 @@ This project is a frontend implementation for CodeAnt AI's Y Combinator-backed p
 - HTML5/CSS3
 
 ## 📱 Features
-- Responsive design across all device sizes
+- Responsive design
 - Interactive sign-in interface with dynamic card layouts
 - Repository management system
 - User dropdown menu with smooth transitions
