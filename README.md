@@ -93,6 +93,7 @@ yarn dev
 
 **Solution:** Created custom Tailwind components and utilized CSS variables in the configuration:
 
+### Note that in order to reach the repository page ,click on any one of the sign in options on the sign in page.
 
 ## 🤝 Contributing
 1. Fork the project
