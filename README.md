@@ -9,6 +9,21 @@ This project is a frontend implementation for CodeAnt AI's Y Combinator-backed p
 - JavaScript/ES6+
 - HTML5/CSS3
 
+## Screenshots
+![image](https://github.com/user-attachments/assets/669a9b09-4c6b-492d-8bca-3b1b08762130)
+
+![image](https://github.com/user-attachments/assets/8c5ba449-7556-4530-ac29-339dd33a8b2d)
+
+![image](https://github.com/user-attachments/assets/a716dcf9-210a-4f21-8723-3fb58cc89f2e)
+
+![image](https://github.com/user-attachments/assets/4d12d8fc-523f-4fa3-b299-ddf089153465)
+
+![image](https://github.com/user-attachments/assets/4cb2fff6-2cf5-46c2-bb7d-6bbcf565df12)
+
+![image](https://github.com/user-attachments/assets/9db968f0-a64c-4795-9ceb-ae5a2480f1bb)
+
+
+
 ## 📱 Features
 - Responsive design
 - Interactive sign-in interface with dynamic card layouts
